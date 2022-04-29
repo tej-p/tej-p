@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
-- 👨‍💻 All of my projects are available at - [My Portfolio](https://drive.google.com/drive/folders/1CCxU4YgRgTGcPB8IBdpQ9mAY9Vg56GuH?usp=sharing)
+- 👨‍💻 All of my projects are available at - [My Portfolio](https://portfolio-tejaswini-shreeramwar.netlify.app/)
 
 - <a href = "https://manalimohod19@gmail.com" target="_blank"><img align="center" height="20" width="25" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a> How to reach me - **tejaswinishreeramwar105@gmail.com**  
 
