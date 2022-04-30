@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, React & Redux.**
 
-- 💬 Ask me about **HTML, CSS, Javascript, React**
+- 💬 Ask me about **HTML, CSS, Javascript.**
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
