@@ -53,19 +53,19 @@
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=tej-p&label=Profile%20views&color=0e75b6&style=flat" alt="tej-p" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tej-p" alt="tej-p" /></a> </p>
+<!---<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tej-p" alt="tej-p" /></a> </p>--->
 
-<p align="center">
+<!---<p align="center">
     <a href="https://github.com/tej-p/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tej's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tej-p&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+</p>--->
   <p align="center">
     <a href="https://github.com/tej-p/github-readme-stats"><img alt="tej's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tej-p&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/tej-p/github-readme-stats"><img alt="tej's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tej-p&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  </p> 
  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
 
 
 <br/>
