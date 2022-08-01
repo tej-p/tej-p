@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tejaswini Shreeramwar </h1>
-<h3 align="center">Full- stack developer with a passion for web development and keen interest in front end.</h3>
+<h3 align="center">Full-Stack developer with a passion for web development and keen interest in Front End.</h3>
 
 <br/>
 <br/>
