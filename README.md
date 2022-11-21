@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences - [Resume](https://drive.google.com/drive/folders/1CCxU4YgRgTGcPB8IBdpQ9mAY9Vg56GuH?usp=sharing)
 
-- ⚡ Fun fact - **Let's go on a trek when we have time.** 
+<!-- - ⚡ Fun fact - **Let's go on a trek when we have time.**  -->
 
 <br/>
 <br/>
@@ -29,8 +29,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="center" > 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,7 +38,9 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://git.com" target="_blank">  <img src="https://img.icons8.com/color-glass/48/000000/github.png"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.npmjs.com/" target="_blank">   <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a>
+    <a href="https://www.npmjs.com/" target="_blank">   <img src="https://img.icons8.com/color/48/000000/npm.png"/>  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
+    
 </p>
 
 <br/>
