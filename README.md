@@ -1,26 +1,17 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tejaswini Shreeramwar </h1>
-<h3 align="center">Full-Stack developer with a passion for web development and keen interest in Front End.</h3>
+<h3 align="center">Experienced React Developer with more than a year of experience in React, HTML, CSS, JavaScript, and Bootstrap. Strong collaborator, seeking opportunities to advance skills and contribute effectively to web development projects.</h3>
 
 <br/>
 <br/>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **my existing projects**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms, React & Redux.**
-
-- 💬 Ask me about **HTML, CSS, Javascript.**
-
-- 👯 I’m looking to collaborate on **frontend projects**
-
 - 👨‍💻 All of my projects are available at - [My Portfolio](https://tejaswini-prabhakar-s.vercel.app/)
 
 - <a href = "https://manalimohod19@gmail.com" target="_blank"><img align="center" height="20" width="25" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a> How to reach me - **tejaswinishreeramwar105@gmail.com**  
 
-- 📄 Know about my experiences - [Resume](https://drive.google.com/drive/folders/1CCxU4YgRgTGcPB8IBdpQ9mAY9Vg56GuH?usp=sharing)
-
+- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1fVKVWQLkOJkudOH8PPs97dU7On4W0KmN/view?usp=drive_link)
 <!-- - ⚡ Fun fact - **Let's go on a trek when we have time.**  -->
 
 <br/>
